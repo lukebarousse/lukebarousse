@@ -2,25 +2,18 @@
 
 I make free YouTube courses for data nerds 🤓
 
-[![Excel][excel-btn]][excel-course]
-[![SQL for DA][sql-btn]][sql-course]
-[![Python][python-btn]][python-course]
-[![Power BI][powerbi-btn]][powerbi-course]
-[![Int. SQL][intsql-btn]][intsql-course]
-[![SQL for DE][sqlde-btn]][sqlde-course]
-[![dbt][dbt-btn]][dbt-repo]
 
 ## 👨🏻‍🏫 What courses do I offer?
 
 | Course | What you'll learn | Repo |
 | --- | --- | --- |
-| **[Excel for Data Analytics][excel-course]** | • Formulas and functions<br>• Charts and pivot tables<br>• Power Query and Power Pivot<br>• 2 projects: a dashboard and an analysis | [![Excel course repo][excel-stars]][excel-repo] |
-| **[SQL for Data Analytics][sql-course]** | • SELECT, JOIN, and aggregations<br>• CTEs and subqueries<br>• PostgreSQL from scratch<br>• Project: analyzing the data job market | [![SQL course repo][sql-stars]][sql-repo] |
-| **[Python for Data Analytics][python-course]** | • Python fundamentals<br>• NumPy, Pandas, and Matplotlib<br>• Cleaning and visualizing data<br>• Project: the most in demand data skills | [![Python course repo][python-stars]][python-repo] |
-| **[Power BI for Data Analytics][powerbi-course]** | • Visualizations and report design<br>• Power Query for ETL<br>• DAX and explicit measures<br>• 2 job market dashboard projects | [![Power BI course repo][powerbi-stars]][powerbi-repo] |
-| **[Intermediate SQL for Data Analytics][intsql-course]** | • Window functions<br>• Dates, views, and data cleaning<br>• Query optimization with EXPLAIN<br>• Project: Contoso retail analysis | [![Intermediate SQL course repo][intsql-stars]][intsql-repo] |
-| **[SQL for Data Engineering][sqlde-course]** | • Data warehouses and star schemas<br>• ETL pipelines and data marts<br>• DuckDB and MotherDuck<br>• Project: raw CSVs to a warehouse | [![SQL for Data Engineering course repo][sqlde-stars]][sqlde-repo] |
-| **dbt for Data Analysts & Engineers** 🔜 *Coming soon* | • dbt models, tests, and docs<br>• Version controlled pipelines<br>• Automating runs with GitHub Actions<br>• 2 projects: DuckDB then BigQuery | [![dbt course repo][dbt-stars]][dbt-repo] |
+| [![Excel][excel-btn]][excel-course] | • Formulas and functions<br>• Charts and pivot tables<br>• Power Query and Power Pivot<br>• 2 projects: a dashboard and an analysis | [![Excel course repo][excel-stars]][excel-repo] |
+| [![SQL for DA][sql-btn]][sql-course] | • SELECT, JOIN, and aggregations<br>• CTEs and subqueries<br>• PostgreSQL from scratch<br>• Project: analyzing the data job market | [![SQL course repo][sql-stars]][sql-repo] |
+| [![Python][python-btn]][python-course] | • Python fundamentals<br>• NumPy, Pandas, and Matplotlib<br>• Cleaning and visualizing data<br>• Project: the most in demand data skills | [![Python course repo][python-stars]][python-repo] |
+| [![Power BI][powerbi-btn]][powerbi-course] | • Visualizations and report design<br>• Power Query for ETL<br>• DAX and explicit measures<br>• 2 job market dashboard projects | [![Power BI course repo][powerbi-stars]][powerbi-repo] |
+| [![Int. SQL][intsql-btn]][intsql-course] | • Window functions<br>• Dates, views, and data cleaning<br>• Query optimization with EXPLAIN<br>• Project: Contoso retail analysis | [![Intermediate SQL course repo][intsql-stars]][intsql-repo] |
+| [![SQL for DE][sqlde-btn]][sqlde-course] | • Data warehouses and star schemas<br>• ETL pipelines and data marts<br>• DuckDB and MotherDuck<br>• Project: raw CSVs to a warehouse | [![SQL for Data Engineering course repo][sqlde-stars]][sqlde-repo] |
+| [![dbt][dbt-btn]][dbt-repo]<br>🔜 *Coming soon* | • dbt models, tests, and docs<br>• Version controlled pipelines<br>• Automating runs with GitHub Actions<br>• 2 projects: DuckDB then BigQuery | [![dbt course repo][dbt-stars]][dbt-repo] |
 
 Every course is free to watch on YouTube. Supporting a course gets you the practice problems, a certificate, and the community.
 
