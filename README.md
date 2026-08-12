@@ -1,6 +1,6 @@
-# Hey, I'm Luke 👋
+# Data Nerds! I'm Luke 👋
 
-I make free courses and YouTube videos for data nerds 🤓
+I make free YouTube courses for data nerds 🤓
 
 [![Excel][excel-btn]][excel-course]
 [![SQL for DA][sql-btn]][sql-course]
@@ -10,9 +10,7 @@ I make free courses and YouTube videos for data nerds 🤓
 [![SQL for DE][sqlde-btn]][sqlde-course]
 [![dbt][dbt-btn]][dbt-repo]
 
-## 🎯 Which course should I start with?
-
-Pick the tool you need. Every course starts from the beginning, so you can jump in anywhere.
+## 👨🏻‍🏫 What courses do I offer?
 
 | Course | What you'll learn | Repo |
 | --- | --- | --- |
@@ -22,11 +20,17 @@ Pick the tool you need. Every course starts from the beginning, so you can jump 
 | **[Power BI for Data Analytics][powerbi-course]** | • Visualizations and report design<br>• Power Query for ETL<br>• DAX and explicit measures<br>• 2 job market dashboard projects | [![Power BI course repo][powerbi-stars]][powerbi-repo] |
 | **[Intermediate SQL for Data Analytics][intsql-course]** | • Window functions<br>• Dates, views, and data cleaning<br>• Query optimization with EXPLAIN<br>• Project: Contoso retail analysis | [![Intermediate SQL course repo][intsql-stars]][intsql-repo] |
 | **[SQL for Data Engineering][sqlde-course]** | • Data warehouses and star schemas<br>• ETL pipelines and data marts<br>• DuckDB and MotherDuck<br>• Project: raw CSVs to a warehouse | [![SQL for Data Engineering course repo][sqlde-stars]][sqlde-repo] |
-| **dbt for Data Analysts & Engineers** 🔜 *Coming soon* | • dbt models, tests, and docs<br>• Version controlled pipelines<br>• Automating runs with GitHub Actions<br>• 2 projects: DuckDB then BigQuery | [Sneak peek][dbt-repo] |
+| **dbt for Data Analysts & Engineers** 🔜 *Coming soon* | • dbt models, tests, and docs<br>• Version controlled pipelines<br>• Automating runs with GitHub Actions<br>• 2 projects: DuckDB then BigQuery | [![dbt course repo][dbt-stars]][dbt-repo] |
 
 Every course is free to watch on YouTube. Supporting a course gets you the practice problems, a certificate, and the community.
 
-Found a typo in one of the course repos? Pull requests always welcome 🙏
+## 🤔 Not sure which skill to learn first?
+
+Don't guess. In my free time I build [datanerd.tech][datanerd], an app that tracks skill demand, salaries, and openings across 4 million data job postings in 171 countries. Check what employers are actually asking for, then pick your course.
+
+[![datanerd.tech][datanerd-btn]][datanerd]
+
+
 
 <!-- course pages -->
 [excel-course]: https://lukebarousse.com/excel
@@ -45,6 +49,9 @@ Found a typo in one of the course repos? Pull requests always welcome 🙏
 [sqlde-repo]: https://github.com/lukebarousse/SQL_Data_Engineering_Course
 [dbt-repo]: https://github.com/lukebarousse/dbt_Analytics_Engineering_Course
 
+<!-- the app -->
+[datanerd]: https://datanerd.tech
+
 <!-- buttons, built from each course's own icon -->
 [excel-btn]: assets/excel.svg
 [sql-btn]: assets/sql-da.svg
@@ -53,6 +60,7 @@ Found a typo in one of the course repos? Pull requests always welcome 🙏
 [intsql-btn]: assets/int-sql.svg
 [sqlde-btn]: assets/sql-de.svg
 [dbt-btn]: assets/dbt.svg
+[datanerd-btn]: assets/datanerd.svg
 
 <!-- live star counts -->
 [excel-stars]: https://img.shields.io/github/stars/lukebarousse/Excel_Data_Analytics_Course?style=flat-square&logo=github&logoColor=white&label=&labelColor=181717&color=282828
@@ -61,3 +69,4 @@ Found a typo in one of the course repos? Pull requests always welcome 🙏
 [powerbi-stars]: https://img.shields.io/github/stars/lukebarousse/PowerBI_Data_Analytics_Course?style=flat-square&logo=github&logoColor=white&label=&labelColor=181717&color=282828
 [intsql-stars]: https://img.shields.io/github/stars/lukebarousse/Int_SQL_Data_Analytics_Course?style=flat-square&logo=github&logoColor=white&label=&labelColor=181717&color=282828
 [sqlde-stars]: https://img.shields.io/github/stars/lukebarousse/SQL_Data_Engineering_Course?style=flat-square&logo=github&logoColor=white&label=&labelColor=181717&color=282828
+[dbt-stars]: https://img.shields.io/github/stars/lukebarousse/dbt_Analytics_Engineering_Course?style=flat-square&logo=github&logoColor=white&label=&labelColor=181717&color=282828
