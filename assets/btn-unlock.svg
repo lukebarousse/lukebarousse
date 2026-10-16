@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="81" height="30" viewBox="0 0 81 30" role="img" aria-label="Unlock">
   <title>Unlock</title>
   <rect x="0" y="3" width="81" height="26" rx="8" fill="#000000" opacity="0.20"/>
-  <rect x="0" y="1" width="81" height="26" rx="8" fill="#B5761A"/>
+  <rect x="0" y="1" width="81" height="26" rx="8" fill="#24292F"/>
   <path d="M8 1 h65 a8 8 0 0 1 8 8 v6 h-81 v-6 a8 8 0 0 1 8 -8 z" fill="#ffffff" opacity="0.13"/>
   <g transform="translate(9 6.5) scale(0.62500)"><path d="M12 3 1 9l11 6 9-4.91V17h2V9L12 3zM5 13.18v4L12 21l7-3.82v-4L12 17l-7-3.82z" fill="#ffffff"/></g>
   <text x="30" y="18.4" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,'Liberation Sans',sans-serif" font-size="12.5" font-weight="600" fill="#ffffff">Unlock</text>
