@@ -55,6 +55,6 @@ def button(label, icon, bg, path):
     open(os.path.join(OUT, path), "w").write(svg)
     print(f"  {path:28s} {w}x{h+4}  '{label}'")
 
-button("Watch", "youtube", "#24292F", "btn-watch.svg")
-button("Code", "github", "#24292F", "btn-code.svg")
-button("Unlock", "cap", "#24292F", "btn-unlock.svg")
+button("Watch", "youtube", "#24292F", "btn-video.svg")
+button("Code", "github", "#24292F", "btn-repo.svg")
+button("Unlock", "cap", "#24292F", "btn-resources.svg")

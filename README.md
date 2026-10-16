@@ -58,6 +58,6 @@ Don't guess. In my free time I build [datanerd.tech][datanerd], an app that trac
 [datanerd-btn]: assets/datanerd.svg
 
 <!-- link buttons, built by scripts/build_buttons.py -->
-[watch-btn]: assets/btn-watch.svg
-[code-btn]: assets/btn-code.svg
-[unlock-btn]: assets/btn-unlock.svg
+[watch-btn]: assets/btn-video.svg
+[code-btn]: assets/btn-repo.svg
+[unlock-btn]: assets/btn-resources.svg
