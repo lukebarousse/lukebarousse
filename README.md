@@ -5,15 +5,15 @@ I make free YouTube courses for data nerds 🤓
 
 ## 👨🏻‍🏫 What courses do I offer?
 
-| Course | What you'll learn | Repo |
-| --- | --- | --- |
-| [![Excel][excel-btn]][excel-course] | • Formulas and functions<br>• Charts and pivot tables<br>• Power Query and Power Pivot<br>• 2 projects: a dashboard and an analysis | [![Excel course repo][excel-stars]][excel-repo] |
-| [![SQL for DA][sql-btn]][sql-course] | • SELECT, JOIN, and aggregations<br>• CTEs and subqueries<br>• PostgreSQL from scratch<br>• Project: analyzing the data job market | [![SQL course repo][sql-stars]][sql-repo] |
-| [![Python][python-btn]][python-course] | • Python fundamentals<br>• NumPy, Pandas, and Matplotlib<br>• Cleaning and visualizing data<br>• Project: the most in demand data skills | [![Python course repo][python-stars]][python-repo] |
-| [![Power BI][powerbi-btn]][powerbi-course] | • Visualizations and report design<br>• Power Query for ETL<br>• DAX and explicit measures<br>• 2 job market dashboard projects | [![Power BI course repo][powerbi-stars]][powerbi-repo] |
-| [![Int. SQL][intsql-btn]][intsql-course] | • Window functions<br>• Dates, views, and data cleaning<br>• Query optimization with EXPLAIN<br>• Project: Contoso retail analysis | [![Intermediate SQL course repo][intsql-stars]][intsql-repo] |
-| [![SQL for DE][sqlde-btn]][sqlde-course] | • Data warehouses and star schemas<br>• ETL pipelines and data marts<br>• DuckDB and MotherDuck<br>• Project: raw CSVs to a warehouse | [![SQL for Data Engineering course repo][sqlde-stars]][sqlde-repo] |
-| [![dbt][dbt-btn]][dbt-repo]<br>🔜 *Coming soon* | • dbt models, tests, and docs<br>• Version controlled pipelines<br>• Automating runs with GitHub Actions<br>• 2 projects: DuckDB then BigQuery | [![dbt course repo][dbt-stars]][dbt-repo] |
+| Course | YouTube Video | GitHub Repo | Supporter Resources | What you'll learn |
+| :--- | :---: | :---: | :---: | :--- |
+| ![Excel][excel-btn] | [![Watch on YouTube][watch-btn]][excel-video] | [![Source code][code-btn]][excel-repo] | [![Supporter resources][unlock-btn]][excel-course] | • Formulas and functions<br>• Charts and pivot tables<br>• Power Query and Power Pivot<br>• 2 Projects: a dashboard and an analysis |
+| ![SQL for DA][sql-btn] | [![Watch on YouTube][watch-btn]][sql-video] | [![Source code][code-btn]][sql-repo] | [![Supporter resources][unlock-btn]][sql-course] | • SELECT, JOIN, and aggregations<br>• CTEs and subqueries<br>• PostgreSQL from scratch<br>• Project: analyzing the data job market |
+| ![Python][python-btn] | [![Watch on YouTube][watch-btn]][python-video] | [![Source code][code-btn]][python-repo] | [![Supporter resources][unlock-btn]][python-course] | • Python fundamentals<br>• NumPy, Pandas, and Matplotlib<br>• Cleaning and visualizing data<br>• Project: the most in demand data skills |
+| ![Power BI][powerbi-btn] | [![Watch on YouTube][watch-btn]][powerbi-video] | [![Source code][code-btn]][powerbi-repo] | [![Supporter resources][unlock-btn]][powerbi-course] | • Visualizations and report design<br>• Power Query for ETL<br>• DAX and explicit measures<br>• 2 Projects: job market dashboards |
+| ![Int. SQL][intsql-btn] | [![Watch on YouTube][watch-btn]][intsql-video] | [![Source code][code-btn]][intsql-repo] | [![Supporter resources][unlock-btn]][intsql-course] | • Window functions<br>• Dates, views, and data cleaning<br>• Query optimization with EXPLAIN<br>• Project: Contoso retail analysis |
+| ![SQL for DE][sqlde-btn] | [![Watch on YouTube][watch-btn]][sqlde-video] | [![Source code][code-btn]][sqlde-repo] | [![Supporter resources][unlock-btn]][sqlde-course] | • Data warehouses and star schemas<br>• ETL pipelines and data marts<br>• DuckDB and MotherDuck<br>• Project: raw CSVs to a warehouse |
+| ![dbt][dbt-btn] | | [![Source code][code-btn]][dbt-repo] | | • dbt models, tests, and docs<br>• Version controlled pipelines<br>• Automating runs with GitHub Actions<br>• 2 Projects: DuckDB then BigQuery |
 
 Every course is free to watch on YouTube. Supporting a course gets you the practice problems, a certificate, and the community.
 
@@ -25,13 +25,13 @@ Don't guess. In my free time I build [datanerd.tech][datanerd], an app that trac
 
 
 
-<!-- course pages -->
-[excel-course]: https://lukebarousse.com/excel
-[sql-course]: https://lukebarousse.com/sql
-[python-course]: https://lukebarousse.com/python
-[powerbi-course]: https://lukebarousse.com/powerbi
-[intsql-course]: https://lukebarousse.com/int-sql
-[sqlde-course]: https://lukebarousse.com/sql-de
+<!-- youtube videos -->
+[excel-video]: https://youtu.be/pCJ15nGFgVg
+[sql-video]: https://youtu.be/7mz73uXD9DA
+[python-video]: https://youtu.be/wUSDVGivd-8
+[powerbi-video]: https://youtu.be/FwjaHCVNBWA
+[intsql-video]: https://youtu.be/QKIGsShyEsQ
+[sqlde-video]: https://youtu.be/UjhFbq4uU2Y
 
 <!-- repos -->
 [excel-repo]: https://github.com/lukebarousse/Excel_Data_Analytics_Course
@@ -42,10 +42,18 @@ Don't guess. In my free time I build [datanerd.tech][datanerd], an app that trac
 [sqlde-repo]: https://github.com/lukebarousse/SQL_Data_Engineering_Course
 [dbt-repo]: https://github.com/lukebarousse/dbt_Analytics_Engineering_Course
 
+<!-- supporter resource pages -->
+[excel-course]: https://lukebarousse.com/excel
+[sql-course]: https://lukebarousse.com/sql
+[python-course]: https://lukebarousse.com/python
+[powerbi-course]: https://lukebarousse.com/powerbi
+[intsql-course]: https://lukebarousse.com/int-sql
+[sqlde-course]: https://lukebarousse.com/sql-de
+
 <!-- the app -->
 [datanerd]: https://datanerd.tech
 
-<!-- buttons, built from each course's own icon -->
+<!-- course buttons, built from each course's own icon -->
 [excel-btn]: assets/excel.svg
 [sql-btn]: assets/sql-da.svg
 [python-btn]: assets/python.svg
@@ -55,11 +63,7 @@ Don't guess. In my free time I build [datanerd.tech][datanerd], an app that trac
 [dbt-btn]: assets/dbt.svg
 [datanerd-btn]: assets/datanerd.svg
 
-<!-- live star counts -->
-[excel-stars]: https://img.shields.io/github/stars/lukebarousse/Excel_Data_Analytics_Course?style=flat-square&logo=github&logoColor=white&label=&labelColor=181717&color=282828
-[sql-stars]: https://img.shields.io/github/stars/lukebarousse/SQL_Project_Data_Job_Analysis?style=flat-square&logo=github&logoColor=white&label=&labelColor=181717&color=282828
-[python-stars]: https://img.shields.io/github/stars/lukebarousse/Python_Data_Analytics_Course?style=flat-square&logo=github&logoColor=white&label=&labelColor=181717&color=282828
-[powerbi-stars]: https://img.shields.io/github/stars/lukebarousse/PowerBI_Data_Analytics_Course?style=flat-square&logo=github&logoColor=white&label=&labelColor=181717&color=282828
-[intsql-stars]: https://img.shields.io/github/stars/lukebarousse/Int_SQL_Data_Analytics_Course?style=flat-square&logo=github&logoColor=white&label=&labelColor=181717&color=282828
-[sqlde-stars]: https://img.shields.io/github/stars/lukebarousse/SQL_Data_Engineering_Course?style=flat-square&logo=github&logoColor=white&label=&labelColor=181717&color=282828
-[dbt-stars]: https://img.shields.io/github/stars/lukebarousse/dbt_Analytics_Engineering_Course?style=flat-square&logo=github&logoColor=white&label=&labelColor=181717&color=282828
+<!-- link buttons, built by scripts/build_buttons.py -->
+[watch-btn]: assets/btn-watch.svg
+[code-btn]: assets/btn-code.svg
+[unlock-btn]: assets/btn-unlock.svg
