@@ -14,6 +14,7 @@ I make free YouTube courses for data nerds 🤓
 | <picture><img src="assets/icon-intsql.png" width="18" align="absmiddle"></picture>&nbsp; $\large\textcolor{#29B6D8}{\textsf{Int. SQL}}$ | [![Watch on YouTube][watch-btn]][intsql-video] | [![Source code][code-btn]][intsql-repo] | [![Supporter resources][unlock-btn]][intsql-course] | • Window functions<br>• Dates, views, and data cleaning<br>• Query optimization with EXPLAIN<br>• Project: Contoso retail analysis |
 | <picture><img src="assets/icon-sqlde.png" width="18" align="absmiddle"></picture>&nbsp; $\large\textcolor{#6C8FE8}{\textsf{SQL for DE}}$ | [![Watch on YouTube][watch-btn]][sqlde-video] | [![Source code][code-btn]][sqlde-repo] | [![Supporter resources][unlock-btn]][sqlde-course] | • Data warehouses and star schemas<br>• ETL pipelines and data marts<br>• DuckDB and MotherDuck<br>• Project: raw CSVs to a warehouse |
 | <picture><img src="assets/icon-dbt.png" width="18" align="absmiddle"></picture>&nbsp; $\large\textcolor{#FF694B}{\textsf{dbt}}$ | [![Watch on YouTube][watch-btn]][dbt-video] | [![Source code][code-btn]][dbt-repo] | [![Supporter resources][unlock-btn]][dbt-course] | • dbt models, tests, and docs<br>• Version controlled pipelines<br>• Automating runs with GitHub Actions<br>• 2 Projects: DuckDB then Databricks |
+| <picture><img src="assets/icon-claude.png" width="18" align="absmiddle"></picture>&nbsp; $\large\textcolor{#D97757}{\textsf{Claude}}$ | | [![Source code][code-btn]][claude-repo] | | • Prompting Claude to uncover insights<br>• Exploring 491k real job postings<br>• Claude Code for deeper analysis<br>• Multiple Projects: a dashboard and more |
 
 Every course is free to watch on YouTube. Supporting a course gets you the practice problems, a certificate, and the community.
 
@@ -42,6 +43,7 @@ Don't guess. In my free time I build [datanerd.tech][datanerd], an app that trac
 [intsql-repo]: https://github.com/lukebarousse/Int_SQL_Data_Analytics_Course
 [sqlde-repo]: https://github.com/lukebarousse/SQL_Data_Engineering_Course
 [dbt-repo]: https://github.com/lukebarousse/dbt_Analytics_Engineering_Course
+[claude-repo]: https://github.com/lukebarousse/Claude_Data_Analytics_Course
 
 <!-- supporter resource pages -->
 [excel-course]: https://lukebarousse.com/excel
